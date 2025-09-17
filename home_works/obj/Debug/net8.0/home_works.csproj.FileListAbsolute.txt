@@ -1,0 +1,14 @@
+C:\Users\GK\Desktop\home_works\home_works\bin\Debug\net8.0\home_works.exe
+C:\Users\GK\Desktop\home_works\home_works\bin\Debug\net8.0\home_works.deps.json
+C:\Users\GK\Desktop\home_works\home_works\bin\Debug\net8.0\home_works.runtimeconfig.json
+C:\Users\GK\Desktop\home_works\home_works\bin\Debug\net8.0\home_works.dll
+C:\Users\GK\Desktop\home_works\home_works\bin\Debug\net8.0\home_works.pdb
+C:\Users\GK\Desktop\home_works\home_works\obj\Debug\net8.0\home_works.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GK\Desktop\home_works\home_works\obj\Debug\net8.0\home_works.AssemblyInfoInputs.cache
+C:\Users\GK\Desktop\home_works\home_works\obj\Debug\net8.0\home_works.AssemblyInfo.cs
+C:\Users\GK\Desktop\home_works\home_works\obj\Debug\net8.0\home_works.csproj.CoreCompileInputs.cache
+C:\Users\GK\Desktop\home_works\home_works\obj\Debug\net8.0\home_works.dll
+C:\Users\GK\Desktop\home_works\home_works\obj\Debug\net8.0\refint\home_works.dll
+C:\Users\GK\Desktop\home_works\home_works\obj\Debug\net8.0\home_works.pdb
+C:\Users\GK\Desktop\home_works\home_works\obj\Debug\net8.0\home_works.genruntimeconfig.cache
+C:\Users\GK\Desktop\home_works\home_works\obj\Debug\net8.0\ref\home_works.dll
